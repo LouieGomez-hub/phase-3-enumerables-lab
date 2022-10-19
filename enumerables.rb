@@ -20,9 +20,7 @@ end
 # given an array of spicy foods, **return an array of hashes** 
 # where the heat level of the food is greater than 5
 def spiciest_foods(spicy_foods)
-  spicy_foods.filter do |food|
-    food[spicy_foods > 5]
-  end
+  # your code here
 end
 
 # given an array of spicy foods, **output to the terminal**
